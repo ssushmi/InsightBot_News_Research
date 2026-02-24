@@ -6,7 +6,7 @@ This project demonstrates **end-to-end AI/ML application development**, semantic
 
 ---
 
-## 🚀 Key Highlights for Recruiters
+## 🚀 Key Highlights 
 
 - **Built with production-ready tools**: Streamlit, LangChain, FAISS, OpenAI  
 - **End-to-end workflow**: Ingest URLs → Chunk content → Generate embeddings → Build vector store → Query with LLM  
